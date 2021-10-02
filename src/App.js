@@ -1,10 +1,10 @@
-import React, { components } from "react";
+import React from "react";
 import CardArray from "./CardArray";
 import SearchBox from "./SearchBox";
 import ErrorBoundry from "./ErrorBoundry";
 // import { robots } from "./robots";
 
-class App extends components {
+class App extends React.Component {
   constructor() {
     super();
     this.state = {
