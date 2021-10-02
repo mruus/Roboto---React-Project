@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+  background: linear-gradient(
+    90deg rgba(0, 0, 0, 0.45),
+    rgba(255, 255, 255, 0.75)
+  );
+}
+
+.title {
+  font-family: pacifico;
+  text-transform: capitalize;
+  margin: 20px;
+}
